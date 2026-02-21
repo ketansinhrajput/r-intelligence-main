@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc:*)",
+      "Bash(npm run build:*)",
+      "Bash(dir:*)",
+      "Bash(npm install pdf-parse)",
+      "Bash(copy \"D:\\\\Projects\\\\r-intelligence\\\\Ketan_Parmar_Resume.pdf\" \"D:\\\\Projects\\\\r-intelligence\\\\test\\\\data\\\\05-versions-space.pdf\")",
+      "Bash(npm install:*)",
+      "WebSearch",
+      "WebFetch(domain:www.npmjs.com)",
+      "WebFetch(domain:ai.google.dev)",
+      "WebFetch(domain:github.com)",
+      "Bash(npm uninstall:*)",
+      "Bash(npm ls:*)"
+    ]
+  }
+}
